@@ -16,4 +16,3 @@ I am a PhD Candidate in Sociology at Princeton University. I am advised by Filiz
 * M.A. Sociology (2025) | _Princeton University_
 * B.A. Industrial Engineering (2020) | _Koc University_
 * B.A. Sociology (2020) | _Koc University_
-
