@@ -23,8 +23,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  #- title: "CV" --- EKLE
-  #  url: /files/Resume.pdf
+  - title: "CV"
+    url: /files/yasemin_savas_cv.pdf
     
   # - title: "CV"
   #   url: /cv-json/
