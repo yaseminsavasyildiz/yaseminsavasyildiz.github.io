@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About
-
 I am a PhD Candidate in Sociology at Princeton University. My research examines how climate and environmental change shape migration, household decision-making, urbanization, and inequality. I primarily employ quantitative and computational social science methods.
 
 ## Research Interests
