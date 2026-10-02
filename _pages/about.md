@@ -9,10 +9,38 @@ redirect_from:
 
 ## About
 
-I am a PhD Candidate in Sociology at Princeton University. I am advised by Filiz Garip, Benjamin Bradlow, and Viviana Zelizer. My research examines how climate and environmental change shape migration, household decision-making, urbanization, and inequality, with a focus on the Global South. I primarily employ quantitative and computational social science methods.
+I am a PhD Candidate in Sociology at Princeton University. My research examines how climate and environmental change shape migration, household decision-making, urbanization, and inequality. I primarily employ quantitative and computational social science methods.
+
+## Research Interests
+
+Climate change, Migration and immigrant integration, Economic sociology, Urbanization
 
 ## Education
 
 * M.A. Sociology (2025), *Princeton University*
 * B.Sc. Industrial Engineering (2020), *Koc University*
 * B.A. Sociology (2020), *Koc University*
+
+## Dissertation Committee
+
+Filiz Garip (chair), Benjamin Bradlow, Viviana Zelizer. 
+
+## Publications 
+
+**Savas, Y.** Severe droughts in Senegal are linked to increased family reunification at migration destinations in
+Europe. Nature Communications (2026). https://doi.org/10.1038/s41467-026-74655-z
+
+Liu, N.*, Hu, X. E.*, **Savas, Y.*1**, Baum, M. A., Berinsky, A. J., Chaney, A. J., ...& Stewart, B. M. (2025). Short-
+term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments
+on YouTube. Proceedings of the National Academy of Sciences, 122(8), e2318127122.
+
+## Teaching
+
+* Introduction to Sociology (SOC 101) — Teaching Assistant, Princeton University, Fall 2025
+* Social Networks (SOC 204) — Teaching Assistant, Princeton University, Spring 2025
+* Claims and Evidence in Sociology (SOC 300) — Teaching Assistant, Princeton University, Fall 2024
+
+
+## Conference Proceedings 
+
+
