@@ -34,30 +34,37 @@ Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A
 
 ## Working papers
 
--- **Savas, Yasemin**, Yildiz, Mehmet, and Garip, Filiz. "Predictability of Human Mobility Across Borders."
--- **Savas, Yasemin** and Garip, Filiz. "Divergent Migration Pathways among Mexican Children."
--- **Savas, Yasemin** and Garip, Filiz. "Origin Weather Shocks and Migrant Children at Destination."
--- **Savas, Yasemin**, Sugimoto, Haruki, Ordorica, Marcela, Howerton, Emily, Garip, Filiz, and Grenfell, Bryan T. "Household Health and Migration Decisions in Mexico."
--- **Savas, Yasemin**, Cottier, Fabien, Benveniste, Hélène, Leblang, David, and Garip, Filiz. Measuring Mexico-U.S. Migration: A Validation and Comparison of Survey and Administrative Data Sources."
--- **Savas, Yasemin** "Weather and Urbanization across the Global South."
+**Savas, Yasemin**, Yildiz, Mehmet, and Garip, Filiz. "Predictability of Human Mobility Across Borders."
+
+**Savas, Yasemin** and Garip, Filiz. "Divergent Migration Pathways among Mexican Children."
+
+**Savas, Yasemin** and Garip, Filiz. "Origin Weather Shocks and Migrant Children at Destination."
+
+**Savas, Yasemin**, Sugimoto, Haruki, Ordorica, Marcela, Howerton, Emily, Garip, Filiz, and Grenfell, Bryan T. "Household Health and Migration Decisions in Mexico."
+
+**Savas, Yasemin**, Cottier, Fabien, Benveniste, Hélène, Leblang, David, and Garip, Filiz. Measuring Mexico-U.S. Migration: A Validation and Comparison of Survey and Administrative Data Sources."
+
+**Savas, Yasemin** "Weather and Urbanization across the Global South."
 
 ## Presentations
 
-* "Weather Shocks in Mexico and Migrant Children's Labor in the United States." With F. Garip. Poster, *Population Association of America Annual Meeting*, St. Louis, MO, 2026.
+"Weather Shocks in Mexico and Migrant Children's Labor in the United States." With F. Garip. Poster, *Population Association of America Annual Meeting*, St. Louis, MO, 2026.
 
-* "Predictability of Human Mobility Across Borders." With M. Yildiz and F. Garip. *Population Association of America Annual Meeting*, St. Louis, MO, 2026.
+"Predictability of Human Mobility Across Borders." With M. Yildiz and F. Garip. *Population Association of America Annual Meeting*, St. Louis, MO, 2026.
 
-* "Climate-Driven Migration: Evidence from Senegal on Permanent Settlement Shifts." *MR2025: Mobility, Adaptation, and Wellbeing in a Changing Climate*, Columbia University, New York, 2025.
+"Climate-Driven Migration: Evidence from Senegal on Permanent Settlement Shifts." *MR2025: Mobility, Adaptation, and Wellbeing in a Changing Climate*, Columbia University, New York, 2025.
 
-* "Climate-Driven Migration in Vulnerable Contexts: A Shift Towards Permanent Migration." *Population Association of America Annual Meeting*, Washington DC, 2025.
+"Climate-Driven Migration in Vulnerable Contexts: A Shift Towards Permanent Migration." *Population Association of America Annual Meeting*, Washington DC, 2025.
 
-* "Predictability of Human Mobility Across Borders." With M. Yildiz and F. Garip. *Center for Statistics and Machine Learning*, Princeton University, 2024.
+"Predictability of Human Mobility Across Borders." With M. Yildiz and F. Garip. *Center for Statistics and Machine Learning*, Princeton University, 2024.
 
 
 ## Teaching
 
-* Introduction to Sociology (SOC 101) — Teaching Assistant, Princeton University, Fall 2025
-* Social Networks (SOC 204) — Teaching Assistant, Princeton University, Spring 2025
-* Claims and Evidence in Sociology (SOC 300) — Teaching Assistant, Princeton University, Fall 2024
+Introduction to Sociology (SOC 101) — Teaching Assistant, Princeton University, Fall 2025
+
+Social Networks (SOC 204) — Teaching Assistant, Princeton University, Spring 2025
+
+Claims and Evidence in Sociology (SOC 300) — Teaching Assistant, Princeton University, Fall 2024
 
 
