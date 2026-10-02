@@ -30,7 +30,7 @@ Filiz Garip (chair), Benjamin Bradlow, Viviana Zelizer.
 
 Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A. J., ... & Stewart, B. M. (2025). Short-term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments on YouTube. *Proceedings of the National Academy of Sciences*, 122(8), e2318127122.
 
-\* Co-first authors (equal contribution).
+<span style="font-size: 0.8em; color: #666;">\* Co-first authors (equal contribution).</span>
 
 ## Teaching
 
