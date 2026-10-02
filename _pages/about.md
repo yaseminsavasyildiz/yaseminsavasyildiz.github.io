@@ -34,7 +34,12 @@ Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A
 
 ## Working papers
 
-
+-- **Savas, Yasemin**, Yildiz, Mehmet, and Garip, Filiz. "Predictability of Human Mobility Across Borders."
+-- **Savas, Yasemin** and Garip, Filiz. "Divergent Migration Pathways among Mexican Children."
+-- **Savas, Yasemin** and Garip, Filiz. "Origin Weather Shocks and Migrant Children at Destination."
+-- **Savas, Yasemin**, Sugimoto, Haruki, Ordorica, Marcela, Howerton, Emily, Garip, Filiz, and Grenfell, Bryan T. "Household Health and Migration Decisions in Mexico."
+-- **Savas, Yasemin**, Cottier, Fabien, Benveniste, Hélène, Leblang, David, and Garip, Filiz. Measuring Mexico-U.S. Migration: A Validation and Comparison of Survey and Administrative Data Sources."
+-- **Savas, Yasemin** "Weather and Urbanization across the Global South."
 
 ## Presentations
 
