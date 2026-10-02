@@ -11,7 +11,7 @@ I am a PhD Candidate in Sociology at Princeton University. My research examines 
 
 ## Research Interests
 
-Climate change, Migration and immigrant integration, Economic sociology, Urbanization
+Climate change, Migration and immigrant integration, Economic sociology, Urban sociology
 
 ## Education
 
