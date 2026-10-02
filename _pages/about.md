@@ -44,7 +44,7 @@ Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A
 
 **Savas, Yasemin**, Cottier, Fabien, Benveniste, Hélène, Leblang, David, and Garip, Filiz. Measuring Mexico-U.S. Migration: A Validation and Comparison of Survey and Administrative Data Sources."
 
-**Savas, Yasemin** "Weather and Urbanization across the Global South."
+**Savas, Yasemin**. "Weather and Urbanization across the Global South."
 
 ## Presentations
 
