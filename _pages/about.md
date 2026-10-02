@@ -32,11 +32,8 @@ Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A
 
 <span style="font-size: 0.8em; color: #666;">\* Co-first authors (equal contribution).</span>
 
-## Teaching
+## Working papers
 
-* Introduction to Sociology (SOC 101) — Teaching Assistant, Princeton University, Fall 2025
-* Social Networks (SOC 204) — Teaching Assistant, Princeton University, Spring 2025
-* Claims and Evidence in Sociology (SOC 300) — Teaching Assistant, Princeton University, Fall 2024
 
 
 ## Presentations
@@ -50,5 +47,12 @@ Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A
 * "Climate-Driven Migration in Vulnerable Contexts: A Shift Towards Permanent Migration." *Population Association of America Annual Meeting*, Washington DC, 2025.
 
 * "Predictability of Human Mobility Across Borders." With M. Yildiz and F. Garip. *Center for Statistics and Machine Learning*, Princeton University, 2024.
+
+
+## Teaching
+
+* Introduction to Sociology (SOC 101) — Teaching Assistant, Princeton University, Fall 2025
+* Social Networks (SOC 204) — Teaching Assistant, Princeton University, Spring 2025
+* Claims and Evidence in Sociology (SOC 300) — Teaching Assistant, Princeton University, Fall 2024
 
 
