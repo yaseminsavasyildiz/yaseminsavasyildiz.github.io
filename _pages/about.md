@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am a PhD Candidate in Sociology at Princeton University. My research examines how climate and environmental change shape migration, household decision-making, urbanization, and inequality. I primarily employ quantitative and computational social science methods.
 
 ## Research Interests
@@ -28,7 +29,7 @@ Filiz Garip (chair), Benjamin Bradlow, Viviana Zelizer.
 **Savas, Y.** Severe droughts in Senegal are linked to increased family reunification at migration destinations in
 Europe. Nature Communications (2026). https://doi.org/10.1038/s41467-026-74655-z
 
-Liu, N.*, Hu, X. E.*, **Savas, Y.***, Baum, M. A., Berinsky, A. J., Chaney, A. J., ...& Stewart, B. M. (2025). Short-
+Liu, N., Hu, X. E., **Savas, Y.**, Baum, M. A., Berinsky, A. J., Chaney, A. J., ...& Stewart, B. M. (2025). Short-
 term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments
 on YouTube. Proceedings of the National Academy of Sciences, 122(8), e2318127122.
 
