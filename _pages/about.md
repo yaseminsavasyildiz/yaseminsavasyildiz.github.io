@@ -48,6 +48,8 @@ Liu, N.\*, Hu, X. E.\*, **Savas, Y.**\*, Baum, M. A., Berinsky, A. J., Chaney, A
 
 ## Presentations
 
+"Household Health and Migration Decisions in Mexico." With H. Sugimoto, M. Ordorica, E. Howerton, F. Garip, and B. T. Grenfell. Poster, *Princeton Catalysis Initiative Symposium*, Princeton University, 2026.
+
 "Weather Shocks in Mexico and Migrant Children's Labor in the United States." With F. Garip. Poster, *Population Association of America Annual Meeting*, St. Louis, MO, 2026.
 
 "Predictability of Human Mobility Across Borders." With M. Yildiz and F. Garip. *Population Association of America Annual Meeting*, St. Louis, MO, 2026.
